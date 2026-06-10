@@ -1,7 +1,6 @@
 
 
-
-
+"use client";
 
 import { FaHtml5, FaCss3Alt, FaJsSquare, FaReact, FaGraduationCap, FaProjectDiagram } from "react-icons/fa";
 import React from "react";

@@ -1,5 +1,5 @@
 "use client"; // Ensures this is a client-side component
- import Header from "./components/Header";
+ import Header from "./components/Home";
 import Navbar from "./components/Navbar";
 import About from "./components/About";
 import Services from "./components/Services";

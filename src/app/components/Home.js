@@ -2,7 +2,7 @@
 import React, { useState, useEffect } from "react";
 import Image from "next/image";
 
-export default function Header() {
+export default function Home() {
   const fullText = "I AM MERN-STACK DEVELOPER";
   const [displayedText, setDisplayedText] = useState("");
   const [index, setIndex] = useState(0);

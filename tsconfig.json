@@ -13,8 +13,8 @@
     "incremental": true,
     "module": "esnext",
     "esModuleInterop": true,
-    "moduleResolution": "node",
-    "resolveJsonModule": true,
+    "moduleResolution": "bundler",   
+     "resolveJsonModule": true,
     "isolatedModules": true,
     "jsx": "react-jsx",
     "plugins": [
